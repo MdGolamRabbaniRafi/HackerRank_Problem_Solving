@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-shuffle-merge", "reverse-shuffle-merge\reverse-shuffle-merge.csproj", "{2F6FF169-A5C6-4984-917C-81B60CED1EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6FF169-A5C6-4984-917C-81B60CED1EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6FF169-A5C6-4984-917C-81B60CED1EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6FF169-A5C6-4984-917C-81B60CED1EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6FF169-A5C6-4984-917C-81B60CED1EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14503606-DC84-441C-B382-F60B3B6A5C6A}
+	EndGlobalSection
+EndGlobal

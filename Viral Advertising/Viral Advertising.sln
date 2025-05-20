@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viral Advertising", "Viral Advertising\Viral Advertising.csproj", "{AFCDD9B8-25C8-4F8C-ACD2-9F8477A404EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCDD9B8-25C8-4F8C-ACD2-9F8477A404EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCDD9B8-25C8-4F8C-ACD2-9F8477A404EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCDD9B8-25C8-4F8C-ACD2-9F8477A404EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCDD9B8-25C8-4F8C-ACD2-9F8477A404EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D5D38D-EAA7-487A-A46F-A21CB5CB25E6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d-surface-area", "3d-surface-area\3d-surface-area.csproj", "{E93FC2DD-7830-440A-A94A-0548A06B092B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93FC2DD-7830-440A-A94A-0548A06B092B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93FC2DD-7830-440A-A94A-0548A06B092B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93FC2DD-7830-440A-A94A-0548A06B092B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93FC2DD-7830-440A-A94A-0548A06B092B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D956B083-7FB3-40FD-AC87-2D65C1F2A72F}
+	EndGlobalSection
+EndGlobal
